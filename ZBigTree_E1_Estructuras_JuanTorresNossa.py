@@ -2,7 +2,7 @@
 """BigTree_E1_Estructuras_JuanTorresNossa.py
 
   Por: Juan Daniel Torres - 2240082
-       Sebastian Nossa
+       Sebastian Nossa - 2211555
 
   Estructuras de datos y Analisis de algoritmos - E1 - Profesora: Nury Farelo
 
