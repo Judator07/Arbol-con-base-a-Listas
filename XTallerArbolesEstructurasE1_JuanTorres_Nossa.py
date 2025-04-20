@@ -4,7 +4,7 @@
 #   Metodos para obtener el peso del arbol, su orden y altura.     #
 #                                                                  #
 #                 Por: Juan Daniel Torres - 2240082                #
-#                        Sebastian Nossa Agudelo                   #
+#                  Sebastian Nossa Agudelo - 2211555               #
 #          Estructuras de datos y Análisis de algoritmos - E1      #
 #                               2025-1                             #
 ####################################################################
