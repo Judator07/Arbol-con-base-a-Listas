@@ -1,0 +1,2 @@
+# Arbol-con-base-a-Listas
+Entrega del taller de árboles, contiene el programa para crear árboles usando listas enlazadas y sus requerimientos, la implementación de un árbol no binario con BigTree y una revision de la libreria y, finalmente, la consulta sobre el algoritmo y los árboles de Huffman. Hecho por: Juan Daniel Torres - 2240082 y Sebastian Nossa. Grupo: E1
